@@ -23,3 +23,4 @@ User-Friendly Console Interface: The application provides a simple and intuitive
 The project includes error handling mechanisms to ensure the user inputs valid data.
 The "izvestaj.txt" file logs important transactions and updates made within the system, providing an audit trail.
 The "meni.txt" file contains the menu which is read by the program.
+The "program.txt" is the project written in txt.
