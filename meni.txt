@@ -1,0 +1,9 @@
+                    MENI
+        [1] Kreiranje novog naloga
+        [2] Brisanje naloga
+        [3] Izvrsavanje depozita
+        [4] Izvrsavanje withdraw-a
+        [5] Lista svih naloga
+        [6] Prikaz detalja naloga
+        [7] Azuriranje naloga
+        [8] Izlaz iz programa
