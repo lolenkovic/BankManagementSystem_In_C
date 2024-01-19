@@ -16,7 +16,7 @@ Key Features:
 
 6. Account Information Update: Users can update their account details, including their name, surname, and date of birth. The system performs validations to ensure the accuracy of the provided information.
 
-    7.Random ID Generation: When creating a new account, the system generates a unique identification number (ID) for the account, enhancing security and avoiding conflicts.
+7.Random ID Generation: When creating a new account, the system generates a unique identification number (ID) for the account, enhancing security and avoiding conflicts.
 
 User-Friendly Console Interface: The application provides a simple and intuitive console interface for users to interact with the banking system.
 
